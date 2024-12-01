@@ -1,0 +1,44 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# React
+build/
+public/static/
+
+# VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# dotenv files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Logs
+logs
+*.log
+
+# Temporary files
+*.swp
+*.swo
+
+# Coverage directory from testing
+coverage/
+
+# Babel cache
+.cache/
+
+# Next.js build output
+.next/
+
+# TypeScript cache
+*.tsbuildinfo
